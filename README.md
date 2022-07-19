@@ -41,11 +41,28 @@ To call the mixin:
 - y can be replaced with any of the variable names above (excluding the $)
 - z can be replaced with min, max, or range.
 
+Input:
+
 ![alt text](/img/resp-ex-1-pre.png)
+
+Output:
+
 ![alt text](/img/resp-ex-1.png)
+
+Input:
+
 ![alt text](/img/resp-ex-2-pre.png)
+
+Output:
+
 ![alt text](/img/resp-ex-2.png)
+
+Input:
+
 ![alt text](/img/resp-ex-3-pre.png)
+
+Output:
+
 ![alt text](/img/resp-ex-3.png)
 
 ### Property clamp insertion
@@ -59,6 +76,7 @@ Usage:
 For example:
 
 Input:
+
 ![alt text](/img/resp-ex-4-pre.png)
 
 Outcome:
